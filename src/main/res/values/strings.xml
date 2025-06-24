@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YourAppName</string>
+
+    <string name="login">LOGIN</string>
+    <string name="designation">Designation:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset">, Reset</string>
+    <string name="account_not_exist">Account not exist,</string>
+    <string name="register">Register</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="student_name">Student Name</string>
+    <string name="academics">Academics</string>
+    <string name="assignments">Assignments</string>
+    <string name="notes">Notes</string>
+    <string name="timetable">Timetable</string>
+    <string name="my_institute">My Institute</string>
+    <string name="notices">Notices</string>
+    <string-array name="designation_array">
+        <item>Student</item>
+        <item>Teacher</item>
+    </string-array>
+    <string name="students">Students</string>
+    <string name="search_hint">Search Student Name</string>
+    <string name="back_button_label">button</string>
+</resources>
